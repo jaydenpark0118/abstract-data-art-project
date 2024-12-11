@@ -1,0 +1,14 @@
+elecguitar.jpg
+funk.jpg
+blues.jpg
+jazz.png
+pop.jpg
+folkm.jpeg
+classical.jpeg
+reggae.jpg
+hiphop.jpeg
+electronic.jpg
+latin.jpg
+stage.jpg
+world.jpeg
+country.jpg
